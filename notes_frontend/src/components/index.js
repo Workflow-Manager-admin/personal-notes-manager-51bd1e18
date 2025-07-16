@@ -1,0 +1,4 @@
+// Barrel file for component imports
+export { default as Sidebar } from './Sidebar';
+export { default as NoteList } from './NoteList';
+export { default as NoteEditor } from './NoteEditor';
